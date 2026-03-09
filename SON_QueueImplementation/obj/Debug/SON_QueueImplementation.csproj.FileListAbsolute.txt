@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\source\repos\SON_QueueImplementation\bin\Debug\SON_QueueImplementation.exe.config
+C:\Users\ACT-STUDENT\source\repos\SON_QueueImplementation\bin\Debug\SON_QueueImplementation.exe
+C:\Users\ACT-STUDENT\source\repos\SON_QueueImplementation\bin\Debug\SON_QueueImplementation.pdb
+C:\Users\ACT-STUDENT\source\repos\SON_QueueImplementation\obj\Debug\SON_QueueImplementation.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\SON_QueueImplementation\obj\Debug\SON_QueueImplementation.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\SON_QueueImplementation\obj\Debug\SON_QueueImplementation.exe
+C:\Users\ACT-STUDENT\source\repos\SON_QueueImplementation\obj\Debug\SON_QueueImplementation.pdb
